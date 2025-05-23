@@ -23,5 +23,5 @@ These images are formatted to show the lowest elevation scan (~0.4° tilt).
 **Software**: GR2Analyst v3.20  
 **Radar Site**: KMLB (Melbourne, FL)  
 **Data Source**: WSR-88D Level II Archive (NOAA NCEI) 
-**Use Case**: Mesoscale analysis of Kissimmee tornadic supercell evolution and local topographical influences
+
 
