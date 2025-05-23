@@ -8,13 +8,13 @@ Two rendering methods are included:
 
 ---
 
-## Volumetric Images
+## Alpha-blended Volumetric
 
 - [Alpha-blended Reflectivity Volume – 05:45Z](KMLB_19980223_0545_BR_3.png)
 
 ---
 
-## 50 dBZ isosurface
+## 50 dBZ Isosurface
 
 - [50 dBZ Isosurface Reflectivity – 05:25Z](KMLB_19980223_0525_BR_50dbz.png)
 - [50 dBZ Isosurface Reflectivity – 05:45Z](KMLB_19980223_0545_BR_50dbz.png)
