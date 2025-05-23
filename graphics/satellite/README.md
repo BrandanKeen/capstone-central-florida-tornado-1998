@@ -1,6 +1,6 @@
 # GOES-8 Satellite Imagery
 
-This directory contains satellite images produced using GOES-8 data. Images are grouped by region (CONUS and Florida) and organized by spectral band.
+This directory contains satellite images produced using GOES-8 data from the NOAA THREDDS server in Python. Images are grouped by region (CONUS and Florida) and organized by spectral band.
 
 ---
 
