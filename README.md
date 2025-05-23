@@ -4,8 +4,6 @@ This repository contains work completed for the *Data Analysis in Meteorology* c
 
 The objective of this repository is to demonstrate the technical skills, scientific tools, and meteorological reasoning applied throughout the development of this project.
 
----
-
 ## Tools & Visualizations
 
 This section provides a directory of the various visual products generated as part of this capstone project. It is organized by the primary program or software used in the analysis. This serves as the main visual archive for the project.
@@ -21,6 +19,9 @@ Following this visual directory is a comprehensive list of all software/programs
 
 
 ### Python / Jupyter Notebooks
+
+##
+
 - [GOES-8 Satellite](graphics/satellite/README.md)
 - [Soundings (sourced from Wyoming Upper Air)](graphics/soundings/README.md)
 - [Reanalysis](graphics/reanalysis/README.md)
