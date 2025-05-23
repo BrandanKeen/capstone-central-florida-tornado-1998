@@ -25,17 +25,24 @@ Following this visual directory is a comprehensive list of all software/programs
 - [Soundings (sourced from Wyoming Upper Air)](graphics/soundings/README.md)
 - [Reanalysis](graphics/reanalysis/README.md)
 
+##
 
 ### Microsoft Excel
 - [ERA5 vs ASOS Temperature - Scatterplot and Regression Analysis](graphics/reanalysis/README.md)
 
+  ##
+
 ### QGIS
 - [Topographical Relief](graphics/topographical/README.md)
+
+##
 
 ### GR2Analyst / Gibson Ridge
 - [Four Panel Plots (BR, BV, SW, SRV)](graphics/radar/README.md)
 - [Volumetric Scans](graphics/radar/README.md)
 - [Base Reflectivity (0.4° and 2.4° tilts)](graphics/radar/README.md)
+
+##
 
 ### GrADS
 - [Reanalysis](graphics/reanalysis/README.md)
