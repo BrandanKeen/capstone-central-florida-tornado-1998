@@ -14,7 +14,8 @@ Each project folder includes:
 ## 🛠️ Tools & Visualizations
 
 ### 🐍 Python / Jupyter Notebooks
-- [Atmospheric Sounding – Skew-T Plot](graphics/soundings/README.md) - [CAPE/Wind Crossover Composite](graphics/reanalysis/README.md)
+- [Atmospheric Sounding – Skew-T Plot](graphics/soundings/README.md)
+- [CAPE/Wind Crossover Composite](graphics/reanalysis/README.md)
 - [Wind Rose – KGIF Station](graphics/wind_roses/README.md)
 
 ### 📊 Excel / Tabular Tools
