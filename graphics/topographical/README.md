@@ -1,6 +1,6 @@
 # Florida Topography Visualizations
 
-This directory contains high-resolution elevation maps of the **Florida Peninsula**, with a focus on terrain features such as the **Lake Wales Ridge**, central highlands, and surrounding coastal plains.
+This directory contains high-resolution elevation maps of the Florida Peninsula, with a focus on the Lake Wales Ridge, central highlands, and surrounding coastal plains.
 
 These maps were created using **NASA SRTM elevation data** and styled in **QGIS** using a custom elevation colormap.
 
