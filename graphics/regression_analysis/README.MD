@@ -31,5 +31,5 @@ The analysis includes hourly comparisons, a 6-hour event window on the day of th
 
 ---
 
-**ERA5 Data Source**: ECMWF ERA5 hourly 2m temperature  
+**Reanalysis**: ECMWF ERA5 hourly 2m temperature  
 **Observations**: KTPA ASOS (Sourced from Iowa Environmental Mesonet)
