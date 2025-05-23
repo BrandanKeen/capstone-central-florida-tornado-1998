@@ -30,7 +30,7 @@ Each visual directory folder contains:
 ##
 
 ### GR2Analyst / Gibson Ridge
-- [Four Panel Plots (BR, BV, SW, SRV)](graphics/gr_analyst/4panel/README.md)
+- [Four Panel Plots (BR, BV, SW, SRV)](graphics/gr_analyst/4_panel/README.md)
 - [Volumetric Scans](graphics/gr_analyst/volumetric/README.md)
 - [Base Reflectivity (0.4° and 2.4° tilts)](graphics/gr_analyst/BR/README.md)
 
