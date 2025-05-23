@@ -18,6 +18,8 @@ Each visual directory folder contains:
 
 Following this visual directory is a comprehensive list of all software/programs, Python libraries, file formats, and data types used throughout the project.
 
+##
+
 ### Python / Jupyter Notebooks
 - [GOES-8 Satellite](graphics/satellite/README.md)
 - [Soundings (sourced from Wyoming Upper Air)](graphics/soundings/README.md)
