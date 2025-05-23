@@ -13,9 +13,3 @@ This directory contains upper-air soundings generated using radiosonde data from
 [12Z Sounding – 1998-02-23 (KXMR)](XMR_1998_02_23_12Z.png)
 
 ---
-
-## Script Used
-
-The following Jupyter Notebook was used to generate these figures:
-
-- [`Skew T_SounderPy.ipynb`](../../notebooks/Skew%20T_SounderPy.ipynb)
