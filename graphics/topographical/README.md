@@ -27,7 +27,7 @@ These maps were created using **NASA SRTM elevation data** and styled in **QGIS*
 
 ## Map Files
 
-- [Florida Topography 1 – Regional terrain view of West-Central Florida](Florida%20Topography%201.png)
-- [Florida Topography 2 – Central and southern extension of the Lake Wales Ridge](Florida%20Topography%202.png)
-- [Florida Topography 3 – Focused detail on northern ridge lakes and elevation gradient](Florida%20Topography%203.png)
-- [Florida Topography 4 – Detailed rendering of elevation contrast near Lake Wales Ridge](Florida%20Topography%204.png)
+- [Florida Topography 1 – Central Florida](Florida%20Topography%201.png)
+- [Florida Topography 2 – West Central Florida](Florida%20Topography%202.png)
+- [Florida Topography 3 – Central region of the Lake Wales Ridge](Florida%20Topography%203.png)
+- [Florida Topography 4 – Central region of the Lake Wales Ridge - Zoomed](Florida%20Topography%204.png)
