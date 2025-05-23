@@ -30,7 +30,7 @@ Following this visual directory is a comprehensive list of all software/programs
 ### Microsoft Excel
 - [ERA5 vs ASOS Temperature - Scatterplot and Regression Analysis](graphics/reanalysis/README.md)
 
-  ##
+##
 
 ### QGIS
 - [Topographical Relief](graphics/topographical/README.md)
