@@ -14,25 +14,30 @@ Each project folder includes:
 ## 🛠️ Tools & Visualizations
 
 ### 🐍 Python / Jupyter Notebooks
-- [Atmospheric Sounding – Skew-T Plot](graphics/soundings/README.md)
-- [CAPE/Wind Crossover Composite](graphics/reanalysis/README.md)
-- [Wind Rose – KGIF Station](graphics/wind_roses/README.md)
+- [GOES-8 Satellite](graphics/satellite/README.md)
+- [Soundings (Wyoming Upper Air)](graphics/soundings/README.md)
+- [Reanalysis](graphics/reanalysis/README.md)
+
+---
 
 ### 📊 Excel / Tabular Tools
-- [ERA5 vs ASOS Temperature Validation – Scatter Plot & Regression](graphics/reanalysis/README.md)
+- [ERA5 vs ASOS Temperature Validation – Scatterplot and Regression](graphics/reanalysis/README.md)
+
+---
 
 ### 🌍 QGIS
-- [Lake Wales Ridge Relief Map](graphics/topographical/README.md)
-- [Central Florida DEM Overlay](graphics/topographical/README.md)
+- [Topographical Relief](graphics/topographical/README.md)
+
+---
 
 ### 📡 GR2Analyst / Radar Tools
-- [Base Reflectivity – Kissimmee Tornado Cell](graphics/radar/README.md)
-- [Velocity Couplets – KTBW](graphics/radar/README.md)
-- [Spectrum Width – Tornadic Cell](graphics/radar/README.md)
+- [Four Panel Plots (BR, BV, SW, SRV)](graphics/radar/README.md)
+- [Volumetric Scans and Base Reflectivity (0.4 degree and 2.4 degree tilts)](graphics/radar/README.md)
+
+---
 
 ### 📈 GrADS
-- [300 mb Jet Streak Analysis](graphics/reanalysis/README.md)
-- [1000–850 mb Thickness & Surface Pressure](graphics/reanalysis/README.md)
+- [Reanalysis](graphics/reanalysis/README.md)
 
 ---
 
