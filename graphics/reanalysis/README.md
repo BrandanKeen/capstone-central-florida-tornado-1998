@@ -2,7 +2,7 @@
 
 This directory showcases meteorological plots generated using **ERA5 reanalysis data**.
 
-Plots are grouped by domain and pressure level or meteorological variable.
+Plots are grouped by domain and pressure level.
 
 ---
 
@@ -13,7 +13,7 @@ Plots are grouped by domain and pressure level or meteorological variable.
 - [850 mb Theta-e, Wind (04z)](CFL_850mb_Theta-e_Heights_Wind_1998_02_23_04.png)
 - [850 mb Dewpoint Depression, Wind, Heights](CFL_850mb_DewpointDepression_Heights_Wind_1998_02_23_04.png)
 
-### CAPE and Wind Shear
+### CAPE + Wind Crossover + MSLP
 
 - [CAPE + Wind Crossover + MSLP – Central FL (04z)](CFL_CAPE_MSLP_WindCrossover_1998_02_23_04.png)
 
@@ -37,7 +37,7 @@ Plots are grouped by domain and pressure level or meteorological variable.
 - [500 mb Temperature, Wind, Heights](FL_500mb_Temp_Heights_Wind1998_02_23_00.png)
 - [500 mb Relative Vorticity, Heights (05z)](FL_500mb_RelVorticity_Heights_1998_02_23_05.png)
 
-### CAPE, Wind Shear, and MSLP Crossovers
+### CAPE + Wind Crossover + MSLP
 
 - [CAPE + Wind Crossover + MSLP – 04z](FL_CAPE_MSLP_WindCrossover_1998_02_23_04.png)
 
