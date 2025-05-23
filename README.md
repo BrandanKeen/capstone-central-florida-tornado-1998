@@ -19,14 +19,15 @@ Each project folder includes:
 - [Reanalysis](graphics/reanalysis/README.md)
 
 ### Microsoft Excel
-- [ERA5 vs ASOS Temperature Validation – Scatterplot and Regression](graphics/reanalysis/README.md)
+- [ERA5 vs ASOS Temperature - Scatterplot and Regression Analysis](graphics/reanalysis/README.md)
 
 ### QGIS
 - [Topographical Relief](graphics/topographical/README.md)
 
 ### GR2Analyst / Gibson Ridge
 - [Four Panel Plots (BR, BV, SW, SRV)](graphics/radar/README.md)
-- [Volumetric Scans and Base Reflectivity (0.4° and 2.4° tilts)](graphics/radar/README.md)
+- [Volumetric Scans](graphics/radar/README.md)
+- [Base Reflectivity (0.4° and 2.4° tilts)](graphics/radar/README.md)
 
 ### GrADS
 - [Reanalysis](graphics/reanalysis/README.md)
