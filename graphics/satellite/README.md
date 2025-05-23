@@ -17,6 +17,8 @@ This directory contains satellite images produced using GOES-8 data from the NOA
 ### Low-Level Water Vapor (Channel 5 – 12.00 µm)
 [GOES-8 Low-Level WV – Florida](FL_GOES8_LLWV_Ch5_1998_02_23_00.png)
 
+---
+
 ## CONUS Imagery
 
 ### Visible (Channel 1 – 0.65 µm)
