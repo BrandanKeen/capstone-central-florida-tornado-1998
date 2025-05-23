@@ -42,7 +42,7 @@ Each visual directory folder contains:
 ##
 
 ### Microsoft Excel
-- [ERA5 vs ASOS Temperature – Scatterplot and Regression Analysis](graphic/regression_analysis/README.md)
+- [ERA5 vs ASOS Temperature – Scatterplot and Regression Analysis](graphics/regression_analysis/README.md)
 
 ---
 Below is a comprehensive list of all software/programs, Python libraries, file formats, and data types used throughout the project.
