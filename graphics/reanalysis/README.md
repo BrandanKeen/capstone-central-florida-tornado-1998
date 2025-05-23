@@ -1,6 +1,7 @@
 # Reanalysis Visualizations
 
-This directory showcases meteorological plots generated using two reanalysis datasets: **ERA5** (European Centre for Medium-Range Weather Forecasts) and **NARR** (North American Regional Reanalysis). The goal of this section is to demonstrate technical skill in generating high-quality meteorological visualizations using Python.
+This directory showcases meteorological plots generated using two reanalysis datasets: **ECMWF–ERA5** and **NCEP–NARR**.  
+The goal of this section is to demonstrate technical skill in generating high-quality meteorological visualizations using Python.
 
 Plots are grouped first by reanalysis dataset, then by domain and pressure level or variable.
 
@@ -62,8 +63,6 @@ Plots are grouped first by reanalysis dataset, then by domain and pressure level
 
 These plots were generated using the **North American Regional Reanalysis (NARR)** dataset and the Siphon data access library.  
 The visualization code is provided in:
-
-> `Siphon_NARR_MSLP_Thickness.ipynb`
 
 - [00Z – MSLP and 1000–500 mb Thickness](EAST_US_MSLP_Thickness_Map_1998_02_23_00.png)
 - [03Z – MSLP and 1000–500 mb Thickness](EAST_US_MSLP_Thickness_Map_1998_02_23_03.png)
