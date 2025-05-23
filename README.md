@@ -2,7 +2,7 @@
 
 This repository contains work completed for the *Data Analysis in Meteorology* capstone course at Florida Institute of Technology. It showcases the use of Python, Jupyter Notebooks, radar software, satellite data, and geospatial tools such as QGIS, GrADS, and Excel for the analysis and visualization of the 1998 Central Florida Tornado Outbreak.
 
-The objective of this repository is to demonstrate the technical skills, scientific tools, and meteorological reasoning applied throughout the development of this project.
+The objective of this repository is to demonstrate the technical skills applied throughout the development of this project.
 
 ## Tools & Visualizations
 
