@@ -25,7 +25,7 @@ Each visual directory folder contains:
 ##
 
 ### GrADS
-- [Reanalysis](graphics/reanalysis/README.md)
+- [Reanalysis](graphics/grads_reanalysis/README.md)
 
 ##
 
