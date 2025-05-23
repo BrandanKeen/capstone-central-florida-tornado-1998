@@ -10,11 +10,9 @@ This section provides a directory of the various visual products generated as pa
 
 Each visual directory folder contains:
 
-- Output figures (`.png`) that represent the visual results  
-- A sampling of the code used to produce the figures (`.ipynb`, `.gs`), depending on the tool used  
-- A `README.md` file detailing the variables visualized, the purpose of the figure, and relevant context for interpretation  
-
-Following this visual directory is a comprehensive list of all software/programs, Python libraries, file formats, and data types used throughout the project.
+- Sampling of output figures (`.png`) developed during the project  
+- The code used to produce the figures (`.ipynb`, `.gs`), depending on the tool used  
+- A `README.md` file detailing the variables visualized  
 
 ##
 
@@ -47,6 +45,7 @@ Following this visual directory is a comprehensive list of all software/programs
 - [ERA5 vs ASOS Temperature – Scatterplot and Regression Analysis](graphics/reanalysis/README.md)
 
 ---
+Below is a comprehensive list of all software/programs, Python libraries, file formats, and data types used throughout the project.
 
 ## 💻 Software / Programs Used
 
