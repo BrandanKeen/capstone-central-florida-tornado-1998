@@ -20,8 +20,6 @@ Following this visual directory is a comprehensive list of all software/programs
 
 ### Python / Jupyter Notebooks
 
-##
-
 - [GOES-8 Satellite](graphics/satellite/README.md)
 - [Soundings (sourced from Wyoming Upper Air)](graphics/soundings/README.md)
 - [Reanalysis](graphics/reanalysis/README.md)
