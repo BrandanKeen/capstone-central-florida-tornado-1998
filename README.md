@@ -13,24 +13,25 @@ Each project folder includes:
 
 ## Tools & Visualizations
 
-### Python / Jupyter Notebooks
+## Python / Jupyter Notebooks
 - [GOES-8 Satellite](graphics/satellite/README.md)
 - [Soundings (Sourced from Wyoming Upper Air)](graphics/soundings/README.md)
 - [Reanalysis](graphics/reanalysis/README.md)
 
-### Microsoft Excel
+## Microsoft Excel
 - [ERA5 vs ASOS Temperature Validation – Scatterplot and Regression](graphics/reanalysis/README.md)
 
-### QGIS
+## QGIS
 - [Topographical Relief](graphics/topographical/README.md)
 
-### GR2Analyst / Gibson Ridge
+## GR2Analyst / Gibson Ridge
 - [Four Panel Plots (BR, BV, SW, SRV)](graphics/radar/README.md)
 - [Volumetric Scans and Base Reflectivity (0.4° and 2.4° tilts)](graphics/radar/README.md)
 
-### GrADS
+## GrADS
 - [Reanalysis](graphics/reanalysis/README.md)
 
+---
 
 ## 💻 Software / Programs Used
 
