@@ -1,25 +1,36 @@
 # 🌪️ Capstone: Central Florida Tornado Outbreak (1998)
 
-This repository contains work completed for the *Data Analysis in Meteorology* capstone course at Florida Institute of Technology. It showcases the use of Python, Jupyter Notebooks, radar software, satellite data, and geospatial tools such as QGIS for the analysis and visualization of the 1998 Central Florida Tornado Outbreak.
+This repository contains work completed for the *Data Analysis in Meteorology* capstone course at Florida Institute of Technology. It showcases the use of Python, Jupyter Notebooks, radar software, satellite data, and geospatial tools such as QGIS and GrADS for the analysis and visualization of the 1998 Central Florida Tornado Outbreak.
 
 The objective of this repository is to demonstrate the technical skills, scientific tools, and meteorological reasoning applied throughout the development of this project.
 
 Each project folder includes:
 - Output figures (`.png`)
-- The exact code used to generate each figure (`.ipynb` or `.py`)
-- A short `README.md` describing the purpose, method, and interpretation of each figure
+- The exact code used to generate each figure (`.ipynb`, `.py`, `.qgz`, `.gs`)
+- A `README.md` describing the image's purpose, method, and scientific interpretation
 
 ---
 
-## Project Structure
+## 🛠️ Tools & Visualizations
 
-- **[graphics/python](graphics/python)** – Python-generated meteorological plots and analyses
-- **[graphics/radar](graphics/radar)** – Radar reflectivity and velocity imagery
-- **[graphics/satellite](graphics/satellite)** – GOES-8 water vapor imagery and animations
-- **[graphics/qgis](graphics/qgis)** – Topographic relief and spatial analysis
-- **[graphics/metar](graphics/metar)** – Surface observation plots and time series
-- **[notebooks](notebooks)** – Jupyter Notebooks for data analysis and visualization
-- **[docs](docs)** – Summaries, methodology, and references
+### 🐍 Python / Jupyter Notebooks
+- [Atmospheric Sounding – Skew-T Plot](graphics/soundings/README.md)
+- [ERA5 vs ASOS Temperature Validation](graphics/reanalysis/README.md)
+- [CAPE/Wind Crossover Composite](graphics/reanalysis/README.md)
+- [Wind Rose – KGIF Station](graphics/wind_roses/README.md)
+
+### 🌍 QGIS
+- [Lake Wales Ridge Relief Map](graphics/topographical/README.md)
+- [Central Florida DEM Overlay](graphics/topographical/README.md)
+
+### 📡 GR2Analyst / Radar Tools
+- [Base Reflectivity – Kissimmee Tornado Cell](graphics/radar/README.md)
+- [Velocity Couplets – KTBW](graphics/radar/README.md)
+- [Spectrum Width – Tornadic Cell](graphics/radar/README.md)
+
+### 📈 GrADS
+- [300 mb Jet Streak Analysis](graphics/reanalysis/README.md)
+- [1000–850 mb Thickness & Surface Pressure](graphics/reanalysis/README.md)
 
 ---
 
@@ -28,6 +39,7 @@ Each project folder includes:
 - Python (Jupyter Notebooks)  
 - QGIS  
 - GR2Analyst / Gibson Ridge  
+- GrADS  
 - NOAA Weather and Climate Toolkit  
 - GitHub  
 
@@ -35,36 +47,45 @@ Each project folder includes:
 
 ## 📚 Python Libraries Used
 
-| | |
-|--|--|
-| - numpy | - cartopy |
-| - pandas | - metpy |
-| - matplotlib | - SounderPy |
-| - xarray | - siphon |
-| - scipy | - datetime |
-| - os | - glob |
+- `numpy` – Numerical computations  
+- `pandas` – Data manipulation and time series  
+- `matplotlib` – Plotting and figure generation  
+- `cartopy` – Map projections and spatial plotting  
+- `metpy` – Meteorological calculations and Skew-T diagrams  
+- `SounderPy` – Sounding plotting library  
+- `xarray` – Multidimensional array datasets (e.g., NetCDF)  
+- `siphon` – Downloading upper-air and model data from remote servers  
+- `scipy` – Scientific computing and interpolation  
+- `datetime` – Time handling  
+- `os`, `glob` – File operations and pattern matching  
 
 ---
 
 ## 📁 File Formats Used
 
-| | |
-|--|--|
-| - `.ipynb` – Jupyter Notebooks | - `.png` – Output figures |
-| - `.py` – Python scripts | - `.csv` – Observational data |
-| - `.txt` – Sounding/raw text data | - `.nc` – Gridded datasets (NetCDF) |
-| - `.grib` – Gridded datasets | - `.tif` – GIS raster data |
-| - `.shp` – GIS vector data | - `.xml` – Metadata/catalogs |
+- `.ipynb` – Jupyter Notebooks  
+- `.py` – Python scripts  
+- `.png` – Output figures and images  
+- `.csv` – Tabular observational data  
+- `.txt` – Sounding and raw text files  
+- `.nc` – NetCDF gridded datasets  
+- `.grib` – GRIB model data (if applicable)  
+- `.tif` – Raster GIS elevation data  
+- `.shp` – Vector shapefiles for mapping  
+- `.xml` – Metadata or THREDDS catalogs  
+- `.qgz` – QGIS project files  
+- `.gs` – GrADS script files  
 
 ---
 
 ## 📊 Data Types Used
 
-| | |
-|--|--|
-| - Reanalysis | - Satellite imagery |
-| - Radar | - Atmospheric soundings |
-| - Surface observations | - Topographic elevation |
+- Reanalysis  
+- Radar  
+- Satellite imagery  
+- Atmospheric soundings  
+- Surface observations  
+- Topographic elevation  
 
 ---
 
@@ -80,4 +101,3 @@ Florida Institute of Technology
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
