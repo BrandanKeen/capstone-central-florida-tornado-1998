@@ -1,8 +1,8 @@
-# Florida Reanalysis Visualizations
+# Reanalysis Visualizations
 
-This directory showcases a set of meteorological plots generated using **ERA5 reanalysis data** for **February 23, 1998**, focusing on Florida and Central Florida. All visualizations were created using Python with `xarray`, `cartopy`, and `matplotlib`.
+This directory showcases a set of meteorological plots generated using **ERA5 reanalysis data**.
 
-Plots are organized by region and atmospheric level. This collection demonstrates proficiency in scientific data visualization and meteorological plotting.
+Plots are organized by region and pressure level.
 
 ---
 
@@ -47,10 +47,17 @@ Plots are organized by region and atmospheric level. This collection demonstrate
 
 ---
 
-## Jupyter Notebooks
+## United States (Synoptic-Scale Domain)
 
-| File | Description |
-|------|-------------|
-| `Reanalysis_FL.ipynb` | Full-domain plots for Florida |
-| `Reanalysis_CFL.ipynb` | Central Florida zoomed plots |
-| `Reanalysis_US.ipynb` | Broader US-wide context (not shown) |
+### Surface
+- [2m Temperature, 10m Wind, MSLP](US_surface_Temp_MSLP_Wind_1998_02_23_00.png)
+- [2m Dewpoint, 10m Wind, MSLP](US_surface_Dewpoint_MSLP_Wind_1998_02_23_00.png)
+
+### 850 mb
+- [850 mb Heights, Wind (05z)](US_850mb_Heights_Wind_1998_02_23_05.png)
+
+### 500 mb
+- [500 mb Temperature, Wind, Heights (00z)](US_500mb_Temp_Heights_1998_02_23_00.png)
+
+### 250 mb
+- [250 mb Jet Stream – Wind and Heights (05z)](US_250mb_Heights_Wind_1998_02_23_05.png)
