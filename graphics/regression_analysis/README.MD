@@ -14,15 +14,15 @@ The analysis includes hourly comparisons, a 6-hour event window on the day of th
 
 ## Plots
 
-### 1. Full Hourly Comparison
+### 1. Hourly
 
 - ![Hourly Comparison](Picture1.png)
 
-### 2. 6-Hour Event Window – 1998-02-23 02:00–08:00 UTC
+### 2. 6-Hour Event Window
 
 - ![6-Hour Event](Picture2.png)
 
-### 3. Monthly Average Comparison
+### 3. Monthly Average Climatology
 
 - ![Monthly Average](Picture3.png)
 
