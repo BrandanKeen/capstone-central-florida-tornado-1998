@@ -1,6 +1,6 @@
 # Atmospheric Soundings
 
-This directory contains upper-air profile plots (Skew-T log-P diagrams) generated using radiosonde data from the Wyoming archive and visualized using the SounderPy library. The soundings represent pre- and post-outbreak conditions surrounding the Central Florida Tornado Outbreak of February 1998.
+This directory contains upper-air soundings generated using radiosonde data from the Wyoming archive and visualized using the SounderPy library. The soundings represent pre- and post-outbreak conditions surrounding the Central Florida Tornado Outbreak of February 1998.
 
 ---
 
