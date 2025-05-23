@@ -9,7 +9,7 @@ Each four-panel image displays the following radar variables:
 - **SW** (Spectrum Width)
 - **SRV** (Storm-Relative Velocity)
 
-These images are formatted to show the lowest elevation scan (~0.4° tilt).
+These images show the lowest elevation scan (~0.4° tilt).
 
 ---
 
