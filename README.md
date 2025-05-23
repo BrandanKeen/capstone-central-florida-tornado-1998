@@ -1,4 +1,4 @@
-# 🌪️ Capstone: Central Florida Tornado Outbreak (1998)
+# Capstone: Central Florida Tornado Outbreak (1998)
 
 This repository contains work completed for the *Data Analysis in Meteorology* capstone course at Florida Institute of Technology. It showcases the use of Python, Jupyter Notebooks, radar software, satellite data, and geospatial tools such as QGIS, GrADS, and Excel for the analysis and visualization of the 1998 Central Florida Tornado Outbreak.
 
@@ -8,20 +8,21 @@ The objective of this repository is to demonstrate the technical skills, scienti
 
 ## Tools & Visualizations
 
-This section provides a directory of all visual products generated as part of this capstone project. It is organized by the primary program or software used for the analysis. Under each tool, you will find links to specific categories of imagery or plots produced within that environment. This serves as the main visual archive for the project.
+This section provides a directory of all visual products generated as part of this capstone project. It is organized by the primary program or software used in the analysis. Under each tool, you will find links to specific categories of imagery or plots produced within that environment. This serves as the main visual archive for the project.
 
 Each visual directory folder contains:
 
 - Output figures (`.png`) that represent the visual results  
 - A sampling of the code used to produce the figures (`.ipynb`, `.py`, `.qgz`, `.gs`), depending on the tool used  
-- A `README.md` file detailing the variables visualized, the purpose of the figure, and any relevant context for interpretation  
+- A `README.md` file detailing the variables visualized, the purpose of the figure, and relevant context for interpretation  
 
 Following this visual directory is a comprehensive list of all software/programs, Python libraries, file formats, and data types used throughout the project.
 
 ### Python / Jupyter Notebooks
 - [GOES-8 Satellite](graphics/satellite/README.md)
-- [Soundings (Sourced from Wyoming Upper Air)](graphics/soundings/README.md)
+- [Soundings (sourced from Wyoming Upper Air)](graphics/soundings/README.md)
 - [Reanalysis](graphics/reanalysis/README.md)
+
 
 ### Microsoft Excel
 - [ERA5 vs ASOS Temperature - Scatterplot and Regression Analysis](graphics/reanalysis/README.md)
