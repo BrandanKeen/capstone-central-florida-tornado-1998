@@ -105,3 +105,47 @@ Florida Institute of Technology
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+## 🛠️ Tools & Visualizations
+
+### 🐍 Python / Jupyter Notebooks
+
+| | |
+|--|--|
+| - [Atmospheric Sounding – Skew-T Plot](graphics/soundings/README.md) | - [CAPE/Wind Crossover Composite](graphics/reanalysis/README.md) |
+| - [Wind Rose – KGIF Station](graphics/wind_roses/README.md) | - [Reanalysis Temperature Cross Sections](graphics/reanalysis/README.md) |
+
+---
+
+### 📊 Excel / Tabular Tools
+
+| | |
+|--|--|
+| - [ERA5 vs ASOS Temperature Scatter Plot](graphics/reanalysis/README.md) | - [Regression Line and Statistics Output](graphics/reanalysis/README.md) |
+
+---
+
+### 🌍 QGIS
+
+| | |
+|--|--|
+| - [Lake Wales Ridge Relief Map](graphics/topographical/README.md) | - [Central Florida DEM Overlay](graphics/topographical/README.md) |
+
+---
+
+### 📡 GR2Analyst / Radar Tools
+
+| | |
+|--|--|
+| - [Reflectivity – Kissimmee Tornado Cell](graphics/radar/README.md) | - [Velocity Couplets – KTBW](graphics/radar/README.md) |
+| - [Spectrum Width – Tornadic Structure](graphics/radar/README.md) | |
+
+---
+
+### 📈 GrADS
+
+| | |
+|--|--|
+| - [300 mb Jet Streak Visualization](graphics/reanalysis/README.md) | - [1000–850 mb Thickness & Surface Pressure](graphics/reanalysis/README.md) |
+
