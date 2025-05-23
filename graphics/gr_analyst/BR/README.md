@@ -1,6 +1,6 @@
 # GR2Analyst Base Reflectivity Tilt Scans
 
-This directory contains standard base reflectivity scans exported from **GR2Analyst** (Gibson Ridge Level II Analyst).
+This directory contains two standard base reflectivity scans exported from **GR2Analyst** (Gibson Ridge Level II Analyst).
 
 ---
 
