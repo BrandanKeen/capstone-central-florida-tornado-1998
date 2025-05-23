@@ -1,6 +1,6 @@
 # GrADS Wind Visualizations
 
-This directory contains wind plots generated using **GrADS**.
+This directory contains wind plots generated using **GrADS** with **ECMWF-ERA5 Reanalysis**  data.
 
 Plots are organized by height above ground and grouped by visualization type: **vectors** and **streamlines**.
 
