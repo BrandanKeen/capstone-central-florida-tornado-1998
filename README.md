@@ -1,6 +1,6 @@
 # 🌪️ Capstone: Central Florida Tornado Outbreak (1998)
 
-This repository contains work completed for the *Data Analysis in Meteorology* capstone course at Florida Institute of Technology. It showcases the use of Python, Jupyter Notebooks, radar software, satellite data, and geospatial tools such as QGIS and GrADS for the analysis and visualization of the 1998 Central Florida Tornado Outbreak.
+This repository contains work completed for the *Data Analysis in Meteorology* capstone course at Florida Institute of Technology. It showcases the use of Python, Jupyter Notebooks, radar software, satellite data, and geospatial tools such as QGIS, GrADS, and Excel for the analysis and visualization of the 1998 Central Florida Tornado Outbreak.
 
 The objective of this repository is to demonstrate the technical skills, scientific tools, and meteorological reasoning applied throughout the development of this project.
 
@@ -15,9 +15,11 @@ Each project folder includes:
 
 ### 🐍 Python / Jupyter Notebooks
 - [Atmospheric Sounding – Skew-T Plot](graphics/soundings/README.md)
-- [ERA5 vs ASOS Temperature Validation](graphics/reanalysis/README.md)
 - [CAPE/Wind Crossover Composite](graphics/reanalysis/README.md)
 - [Wind Rose – KGIF Station](graphics/wind_roses/README.md)
+
+### 📊 Excel / Tabular Tools
+- [ERA5 vs ASOS Temperature Validation – Scatter Plot & Regression](graphics/reanalysis/README.md)
 
 ### 🌍 QGIS
 - [Lake Wales Ridge Relief Map](graphics/topographical/README.md)
@@ -37,6 +39,7 @@ Each project folder includes:
 ## 💻 Software / Programs Used
 
 - Python (Jupyter Notebooks)  
+- Excel (for regression, plotting, and validation)  
 - QGIS  
 - GR2Analyst / Gibson Ridge  
 - GrADS  
@@ -75,6 +78,7 @@ Each project folder includes:
 - `.xml` – Metadata or THREDDS catalogs  
 - `.qgz` – QGIS project files  
 - `.gs` – GrADS script files  
+- `.xlsx` – Excel workbook for data validation and plotting  
 
 ---
 
