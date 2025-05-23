@@ -4,7 +4,11 @@ This repository contains work completed for the *Data Analysis in Meteorology* c
 
 The objective of this repository is to demonstrate the technical skills, scientific tools, and meteorological reasoning applied throughout the development of this project.
 
-The **Tools & Visualizations** section below provides a directory of all visual products generated as part of this capstone project. It is organized by the primary program or software used for the analysis. Under each tool, you will find links to specific categories of imagery or plots produced within that environment. This serves as the main visual archive for the project.
+---
+
+## Tools & Visualizations
+
+This section provides a directory of all visual products generated as part of this capstone project. It is organized by the primary program or software used for the analysis. Under each tool, you will find links to specific categories of imagery or plots produced within that environment. This serves as the main visual archive for the project.
 
 Each visual directory folder contains:
 
@@ -13,10 +17,6 @@ Each visual directory folder contains:
 - A `README.md` file detailing the variables visualized, the purpose of the figure, and any relevant context for interpretation  
 
 Following this visual directory is a comprehensive list of all software/programs, Python libraries, file formats, and data types used throughout the project.
-
----
-
-## Tools & Visualizations
 
 ### Python / Jupyter Notebooks
 - [GOES-8 Satellite](graphics/satellite/README.md)
