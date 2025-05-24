@@ -1,6 +1,6 @@
 # ERA5 vs. ASOS Temperature Comparison
 
-This directory presents a regression analysis comparing ERA5 2-meter temperature data with KTPA ASOS (METAR) observations.The analysis includes hourly data for 1998, a 6-hour event window on the day of the 1998 Central Florida Tornado Outbreak. Missing ASOS values were linearly interpolated using the average of the nearest preceding and following hourly observations.
+This directory presents a regression analysis comparing hourly ERA5 2-meter temperature data with KTPA ASOS (METAR) observations for the year 1998. The analysis also includes the 6-hour event window on the day of the 1998 Central Florida Tornado Outbreak. Missing ASOS values were linearly interpolated using the average of the nearest preceding and following observations.
 
 ---
 
