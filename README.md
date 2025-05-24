@@ -45,74 +45,39 @@ Each visual directory folder contains:
 - [ERA5 vs ASOS Temperature – Scatterplot and Regression Analysis](graphics/regression_analysis/README.MD)
 
 ---
-Below is a comprehensive list of all software/programs, Python libraries, file formats, and data types used throughout the project.
 
-## 💻 Software / Programs Used
+Below is a comprehensive list of all Python libraries, and file formats used throughout the project.
 
-- Python (Jupyter Notebooks)  
-- Excel (for regression, plotting, and validation)  
-- QGIS  
-- GR2Analyst / Gibson Ridge  
-- GrADS  
-- NOAA Weather and Climate Toolkit  
-- GitHub  
+## Python Libraries Used
 
----
+## Python Libraries Used
 
-## 📚 Python Libraries Used
+- `numpy`  
+- `pandas`  
+- `matplotlib`  
+- `cartopy`  
+- `metpy`  
+- `sounderpy`  
+- `xarray`  
+- `siphon`  
+- `scipy`  
+- `datetime`  
+- `os`  
+- `requests`  
+- `netCDF4`  
 
-- `numpy` – Numerical computations  
-- `pandas` – Data manipulation and time series  
-- `matplotlib` – Plotting and figure generation  
-- `cartopy` – Map projections and spatial plotting  
-- `metpy` – Meteorological calculations and Skew-T diagrams  
-- `SounderPy` – Sounding plotting library  
-- `xarray` – Multidimensional array datasets (e.g., NetCDF)  
-- `siphon` – Downloading upper-air and model data from remote servers  
-- `scipy` – Scientific computing and interpolation  
-- `datetime` – Time handling  
-- `os`, `glob` – File operations and pattern matching  
 
 ---
 
-## 📁 File Formats Used
+## File Formats Used
 
 - `.ipynb` – Jupyter Notebooks  
-- `.py` – Python scripts  
-- `.png` – Output figures and images  
 - `.csv` – Tabular observational data  
 - `.txt` – Sounding and raw text files  
-- `.nc` – NetCDF gridded datasets  
-- `.grib` – GRIB model data (if applicable)  
-- `.tif` – Raster GIS elevation data  
-- `.shp` – Vector shapefiles for mapping  
-- `.xml` – Metadata or THREDDS catalogs  
-- `.qgz` – QGIS project files  
-- `.gs` – GrADS script files  
 - `.xlsx` – Excel workbook for data validation and plotting  
-
----
-
-## 📊 Data Types Used
-
-- Reanalysis  
-- Radar  
-- Satellite imagery  
-- Atmospheric soundings  
-- Surface observations  
-- Topographic elevation  
-
----
-
-## 👤 Author
-
-**Brandan Keen**  
-Capstone Project – MET 3403  
-Florida Institute of Technology  
-[GitHub Profile](https://github.com/BrandanKeen)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
+- `.json` – Metadata or structured config files  
+- `.nc` – NetCDF gridded datasets  
+- `.xml` – THREDDS catalogs or metadata  
+- `.shp` – Vector shapefiles for mapping  
+- `.tif` – Raster GIS elevation data  
+- `.gs` – GrADS script files  
