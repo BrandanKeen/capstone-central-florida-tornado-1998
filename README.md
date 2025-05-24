@@ -50,8 +50,6 @@ Below is a comprehensive list of all Python libraries, and file formats used thr
 
 ## Python Libraries Used
 
-## Python Libraries Used
-
 - `numpy` – Array operations and numerical calculations  
 - `pandas` – Handling tabular and time series data  
 - `matplotlib` – Plot generation and figure customization  
