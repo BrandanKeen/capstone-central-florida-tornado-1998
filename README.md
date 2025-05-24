@@ -52,32 +52,32 @@ Below is a comprehensive list of all Python libraries, and file formats used thr
 
 ## Python Libraries Used
 
-- `numpy`  
-- `pandas`  
-- `matplotlib`  
-- `cartopy`  
-- `metpy`  
-- `sounderpy`  
-- `xarray`  
-- `siphon`  
-- `scipy`  
-- `datetime`  
-- `os`  
-- `requests`  
-- `netCDF4`  
-
+- `numpy` – Array operations and numerical calculations  
+- `pandas` – Handling tabular and time series data  
+- `matplotlib` – Plot generation and figure customization  
+- `cartopy` – Map projections and geospatial plotting  
+- `metpy` – Meteorological calculations and Skew-T plotting  
+- `sounderpy` – Custom Skew-T visualizations from reanalysis  
+- `xarray` – Working with multidimensional NetCDF datasets  
+- `siphon` – Accessing reanalysis and upper-air data via THREDDS  
+- `scipy` – Data interpolation and scientific routines  
+- `datetime` – Managing dates and timestamps  
+- `os` – File and directory operations  
+- `requests` – Downloading remote data via HTTP  
+- `netCDF4` – Reading NetCDF files  
 
 ---
 
 ## File Formats Used
 
-- `.ipynb` – Jupyter Notebooks  
-- `.csv` – Tabular observational data  
-- `.txt` – Sounding and raw text files  
-- `.xlsx` – Excel workbook for data validation and plotting  
-- `.json` – Metadata or structured config files  
-- `.nc` – NetCDF gridded datasets  
-- `.xml` – THREDDS catalogs or metadata  
-- `.shp` – Vector shapefiles for mapping  
-- `.tif` – Raster GIS elevation data  
-- `.gs` – GrADS script files  
+- `.ipynb` – Jupyter Notebooks (Python code and analysis)  
+- `.csv` – Tabular meteorological and station data  
+- `.txt` – Raw sounding and formatted text input  
+- `.xlsx` – Excel files for regression and validation  
+- `.json` – Configuration and metadata  
+- `.nc` – NetCDF files for ERA5 reanalysis data  
+- `.xml` – THREDDS catalog references  
+- `.shp` – Shapefiles for geographic features  
+- `.tif` – DEM raster files for elevation and topography  
+- `.gs` – GrADS scripts
+
