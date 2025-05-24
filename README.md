@@ -6,7 +6,7 @@ The objective of this repository is to demonstrate the technical skills applied 
 
 ## Tools & Visualizations
 
-This section provides a directory of the various visual products generated as part of this capstone project. It is organized by the primary program or software used in the analysis. This serves as the main visual archive for the project.
+This section provides a directory of the various visual products generated as part of this capstone project. It is organized by the primary program or software used in the analysis.
 
 Each visual directory folder contains:
 
